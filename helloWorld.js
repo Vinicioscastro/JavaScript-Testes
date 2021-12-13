@@ -25,3 +25,9 @@ lista.forEach(elemento => {
         console.log("tem biscicleta aqui")
     }
 });
+
+lista.forEach(elemento => {
+    if (elemento == "motto"){
+        console.log("tem motto aqui")
+    }
+});
