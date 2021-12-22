@@ -1,0 +1,4 @@
+class carro {
+    var nome
+    
+}
