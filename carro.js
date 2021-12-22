@@ -21,4 +21,4 @@ var carro2 = new Carro("hilux", 250.000,00)
 
 carro2.mostrar()
 
-
+console.log(carro1.mostrar);
