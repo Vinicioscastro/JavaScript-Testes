@@ -22,3 +22,10 @@ var carro2 = new Carro("hilux", 250.000,00)
 carro2.mostrar()
 
 console.log(carro1.mostrar);
+
+var carro5 = new Carro ("Pristam", 45.000,00)
+
+for (chave in carro5){
+    console.log(chave + " : " + carro5[chave]);
+}
+console.log(carro5)
