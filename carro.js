@@ -30,6 +30,10 @@ for (chave in carro5){
     console.log(chave + " : " + carro5[chave]);
 }
 
+for (chave in carro5){
+    console.log(chave + " : " + carro5[chave]);
+}
+
 console.log(carross)
 
 for (chave in carross){
