@@ -24,8 +24,16 @@ carro2.mostrar()
 console.log(carro1.mostrar);
 
 var carro5 = new Carro ("Pristam", 45.000,00)
+carross = {carro1 , carro2, carro5}
 
 for (chave in carro5){
     console.log(chave + " : " + carro5[chave]);
 }
-console.log(carro5)
+
+console.log(carross)
+
+for (chave in carross){
+    for (chave in carross){
+        console.log(chave + ":::" + carross[chave]);
+    }
+}
