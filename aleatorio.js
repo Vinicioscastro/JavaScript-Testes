@@ -1,6 +1,7 @@
 
 var  ale = Math.random() * (60 - 1) + 1
 //console.log(ale);
+// não foi dessa vez 01/01/2021
 
 function sorteia(min, max) {
     min = Math.ceil(min);
