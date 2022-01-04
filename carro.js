@@ -41,3 +41,9 @@ for (chave in carross){
         console.log(chave + ":::" + carross[chave]);
     }
 }
+
+for (chave in carross){
+    for (chave in carross){
+        console.log(chave + ":::" + carross[chave]);
+    }
+}
