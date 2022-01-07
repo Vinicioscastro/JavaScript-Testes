@@ -13,7 +13,7 @@ console.log(nome)
 
 console.log(nome2)
 
-for(let i=0; i<10; i++){
+for(let i=0; i<11; i++){
     console.log(i)
 }
 
