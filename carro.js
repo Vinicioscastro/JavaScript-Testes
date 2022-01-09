@@ -2,6 +2,7 @@ class Carro {
     constructor(nome, valor){
         this.nome = nome
         this.valor = valor
+
     }
 
     mostrar(){
