@@ -2,6 +2,8 @@ console.log("HEllo World")
 
 var nome = "vinicios"
 
+//Ok
+
 if (nome == "vinicios") {
     console.log("1")
     console.log(nome)
