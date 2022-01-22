@@ -9,4 +9,7 @@ console.log("Teste 20")
 }
 teste2()
 // ------------------------------------------------
-
+flamengo = () =>{
+    console.log("flamengo")
+}
+flamengo()
