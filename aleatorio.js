@@ -9,6 +9,8 @@ function sorteia(min, max) {
     return Math.floor(Math.random() * (max - min)) + min;
   }
 
-  for(i = 0; i<2 ; i++){
+  for(i = 0; i<2 ; i++){ 
+      
         console.log(i+1 + "° Numero sorteado: " + sorteia(1,60));
+      
   }
