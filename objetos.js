@@ -22,3 +22,9 @@ console.log(objeto)
 for(key in objeto){
     console.log(key+ ": "+objeto[key])
 }
+
+function soma(){
+    console.log(2+3);
+}
+
+soma()
