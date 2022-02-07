@@ -18,7 +18,7 @@ carro1.valor = 95.000,00
 console.log(carro1);
 carro1.mostrar()
 
-var carro2 = new Carro("hilux", 250.000,00)
+var carro2 = new Carro("hilux", 350.000,00)
 
 carro2.mostrar()
 
