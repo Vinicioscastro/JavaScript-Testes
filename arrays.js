@@ -1,4 +1,4 @@
-var inicio = [2, 2 ,7, 8, 9, 512, 1975 ]
+var inicio = [2, 2 ,7, 8, 9, 512, 1975, 358 ]
 /*
 console.log(inicio )
 
